@@ -5,7 +5,7 @@ Using new 1.17 shaders.
 # Installation
 1. Download .zip from Releases;
 2. Make sure you have Minecraft version 1.17 or above;
-3. Drop .zip file in /resourcepack folder;
+3. Drop .zip file in /resourcepack folder inside of your minecraft installation folder;
 4. Activate this resouce pack in-game. 
 
 # Before
