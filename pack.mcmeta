@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description":"§7(1.17 shader) §rNo more directional lighting on blocks."
+  }
+}
